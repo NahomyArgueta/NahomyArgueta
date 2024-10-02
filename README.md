@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahomyargueta&label=Profile%20views&color=0e75b6&style=flat" alt="nahomyargueta" /> </p>
 
-- 🔭 I’m currently working on [LaSalleBet Website](https://github.com/LaSalleGraciaM06-24-25/m06-uf1-pr-24-25-nahomyargueta)
+- 🔭 I’m currently working on [LaSalleBet Website](https://github.com/LaSalleGraciaM06-24-25/m06-uf1-pr-24-25-nahomyargueta), my latest project in class
 
-- 💬 Ask me about **javascript and react**
+- 💬 Ask me about **javascript and react**, I´ll be glad to help
 
 - 📫 How to reach me **n.arguetanavarrete@gmail.com**
 
