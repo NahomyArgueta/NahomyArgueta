@@ -13,12 +13,6 @@
 
 - ⚡ Fun fact **I believe in JS supremacy**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arguetann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arguetann" height="30" width="40" /></a>
-<a href="https://instagram.com/suki3am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suki3am" height="30" width="40" /></a>
-</p>
-
 ### 🛠 &nbsp;Tech Stack
 
 **Programming Languages**
@@ -35,8 +29,8 @@
 
 **Backend**
 <br>
-	[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
- 	[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+ [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
   
 **Frameworks**
 <br>
@@ -47,8 +41,18 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
+**Other technologies**
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arguetann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arguetann" height="30" width="40" /></a>
+<a href="https://instagram.com/suki3am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suki3am" height="30" width="40" /></a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahomyargueta&show_icons=true&locale=en&layout=compact" alt="nahomyargueta" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahomyargueta&show_icons=true&text_color=a0cdfd&bg_color=ffffff&locale=es" alt="nahomyargueta" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahomyargueta&" alt="nahomyargueta" /></p>
