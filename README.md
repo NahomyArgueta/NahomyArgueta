@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [LaSalleBet Website](https://github.com/LaSalleGraciaM06-24-25/m06-uf1-pr-24-25-nahomyargueta), my latest project in class
 
-- 💬 Ask me about **javascript and react**, I´ll be glad to help
+- 💬 Ask me about **Javascript and React**, I´ll be glad to help
 
 - 📫 How to reach me **n.arguetanavarrete@gmail.com**
 
