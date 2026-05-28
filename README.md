@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **n.arguetanavarrete@gmail.com**
 
-- 📄 Know about my experiences: I am a final year student of Web Application Development. I have worked with technologies such as PHP, JS, CSS, HTML, Java, MySQL and React. I have solid problem-solving skills and effective teamwork collaboration.
+- 📄 Know about my experiences: I am Web Developer, focused on frontend with a strong based backend knowledge. I have worked with technologies such as PHP, JS, CSS, HTML, Java, MySQL and React. I have solid problem-solving skills and effective teamwork collaboration.
 
 - ⚡ Fun fact **I believe in JS supremacy**
 
